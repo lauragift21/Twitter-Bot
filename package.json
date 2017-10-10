@@ -1,0 +1,27 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauragift21/Twitter-Bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "100daysofcode"
+  ],
+  "author": "Gift Egwuenu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauragift21/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/lauragift21/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
