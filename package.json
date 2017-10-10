@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lauragift21/Twitter-Bot#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "twit": "^2.2.9"
   }
 }
