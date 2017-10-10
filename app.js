@@ -40,8 +40,8 @@ var likeTweet = function(){
   }
   // grab & 'like' as soon as program is running...
   likeTweet();
-  // 'like' a tweet in every 2 hours
-  setInterval(likeTweet, 7200000);
+  // 'like' a tweet in every 30 minutes
+  setInterval(likeTweet, 1200000);
   
   // function to generate a random tweet 
   function ranDom (arr) {
