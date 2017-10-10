@@ -3,7 +3,8 @@ config = require('./config');
 
 var Twitter = new twit(config);
 
-// Twitter likes BOT====================
+// Likes Bot for Twitter ===============
+// By @lauragift21
 
 // find a random tweet and 'like' it
 var likeTweet = function(){
