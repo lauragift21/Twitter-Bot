@@ -1,8 +1,10 @@
-var twit = require('twit'),
-config = require('./config');
+require('dotenv').config()
 
-var Twitter = new twit(config);
+var twit = require('twit');
+var config = require('./config');
 
+
+var Twitter = new twit(config.twitter);
 // Likes Bot for Twitter ===============
 // By @lauragift21
 
