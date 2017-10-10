@@ -1,4 +1,4 @@
 # Twitter-Bot
-Twitter bot for liking #100Daysofcode tweets
+@lauragift21 twitter bot for liking #100Daysofcode tweets
 
 
