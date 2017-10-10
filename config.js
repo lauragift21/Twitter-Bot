@@ -1,5 +1,3 @@
-var Twitter = new Twitter(config);
-
 //config.js for twitter API
 /** TWITTER APP CONFIGURATION
  * consumer_key

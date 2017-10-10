@@ -1,5 +1,9 @@
-var twit = require("twit");
-var config = require("./config.js");
+var
+twit = require('twit'),
+config = require('./config');
+
+var Twitter = new twit(config);
+
 
 // LIKE TWEET BOT====================
 
@@ -37,7 +41,7 @@ var likeTweet = function(){
   // grab & 'like' as soon as program is running...
   likeTweet();
   // 'like' a tweet in every 2 hours
-  setInterval(favoriteTweet, 7200000);
+  setInterval(likeTweet, 7200000);
   
   // function to generate a random tweet 
   function ranDom (arr) {
