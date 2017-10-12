@@ -11,7 +11,7 @@ Getting Started
 
 ```bash
 # Get the project
-git clone https://github.com/lauragift21/Twitter-Bot
+git clone https://github.com/lauragift21/Twitter-Bot.git
 
 # Change directory
 cd Twitter-Bot
