@@ -16,9 +16,11 @@ git clone https://github.com/lauragift21/Twitter-Bot.git
 # Change directory
 cd Twitter-Bot
 
-# npm install
+# install npm
+npm install --save //save dependencies
 
-# npm start
+# start app
+npm start
 ```
 
 
