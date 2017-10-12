@@ -46,6 +46,6 @@ var likeTweet = function(){
   
   // function to generate a random tweet tweet
   function ranDom (arr) {
-    var index = Math.floor(Math.random() * arr.length);
+    var index = Math.floor(Math.random()*arr.length);
     return arr[index];
   };
