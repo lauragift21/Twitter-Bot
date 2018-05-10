@@ -1,8 +1,6 @@
 # Twitter-Bot
-@lauragift21 twitter bot for liking #100Daysofcode tweets
 
-[![Screenshot_from_2017-10-12_11-22-34.png](https://s1.postimg.org/3y0toae4lb/Screenshot_from_2017-10-12_11-22-34.png)](https://postimg.org/image/7opz9j2zsr/)
-
+Twitter Bot for liking #100Daysofcode tweets
 
 Getting Started
 ---------------
