@@ -45,6 +45,6 @@ const likeTweet = () => {
 
   // function to generate a random tweet tweet
   function ranDom (arr) {
-    const index = Math.floor(Math.random()*arr.length);
+    const index = Math.floor(Math.random()* arr.length);
     return arr[index];
   };

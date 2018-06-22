@@ -24,9 +24,7 @@
   "homepage": "https://github.com/lauragift21/Twitter-Bot#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "twit": "^2.2.9"
-  },
-  "devDependencies": {
+    "twit": "^2.2.9",
     "nodemon": "^1.17.5"
   }
 }
