@@ -44,7 +44,7 @@ const likeTweet = () => {
   setInterval(likeTweet, 3600000);
 
   // function to generate a random tweet 
-  function ranDom (arr) {
-    let index = Math.floor(Math.random()* arr.length);
-    return arr[index];
+  function ranDom (myArray) {
+    let index = [Math.floor(Math.random() * myArray.length)];
+    return myArray[index];
   };
